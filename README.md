@@ -15,4 +15,8 @@ It uses **MAX30100**, **ECG sensor**, and **temperature sensor** to monitor vita
 - **Software:** Python, Streamlit, Arduino IDE
 - **Communication:** via video or photo of the readings
 
+## Contributors
+- [Anwita Ghosh](https://github.com/Anwita14)
+- [Dhrubajoti Adhikari](https://github.com/Dhruba700)
+
 
